@@ -18,7 +18,8 @@ public class Bytes {
         }
 
         if (count<5) {
-            System.out.println(String.format(Locale.ROOT,"%.1f", bytes) + " " + measureUnit[count]);        } else {
+            System.out.println(String.format(Locale.ROOT,"%.1f", bytes) + " " + measureUnit[count]);       
+        } else {
             System.out.println("Слишком большое число, введите меньшее значение!");
         }
     }
