@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Trolleyuses>
+    <Current_transport_location>
+        <number>13</number>
+        <Latitude>45.10979</Latitude>
+        <Longitude>38.93438</Longitude>
+    </Current_transport_location>
+    <Current_transport_location>
+        <number>10</number>
+        <Latitude>44.13023</Latitude>
+        <Longitude>38.95417</Longitude>
+    </Current_transport_location>
+    <Current_transport_location>
+        <number>1</number>
+        <Latitude>45.11017</Latitude>
+        <Longitude>37.98430</Longitude>
+    </Current_transport_location>
+    <Current_transport_location>
+        <number>101</number>
+        <Latitude>44.10554</Latitude>
+        <Longitude>39.96674</Longitude>
+    </Current_transport_location>
+    <Current_transport_location>
+        <number>45</number>
+        <Latitude>45.11344</Latitude>
+        <Longitude>38.99113</Longitude>
+    </Current_transport_location>
+</Trolleyuses>
