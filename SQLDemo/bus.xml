@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Buses>
+    <Current_transport_location>
+        <number>2</number>
+        <Latitude>45.12779</Latitude>
+        <Longitude>38.98438</Longitude>
+    </Current_transport_location>
+    <Current_transport_location>
+        <number>9</number>
+        <Latitude>45.13023</Latitude>
+        <Longitude>38.97617</Longitude>
+    </Current_transport_location>
+    <Current_transport_location>
+        <number>4</number>
+        <Latitude>45.11017</Latitude>
+        <Longitude>38.98430</Longitude>
+    </Current_transport_location>
+    <Current_transport_location>
+        <number>96</number>
+        <Latitude>45.10534</Latitude>
+        <Longitude>38.96184</Longitude>
+    </Current_transport_location>
+    <Current_transport_location>
+        <number>53</number>
+        <Latitude>45.10344</Latitude>
+        <Longitude>38.93113</Longitude>
+    </Current_transport_location>
+</Buses>
